@@ -1,0 +1,92 @@
+{
+  "cards": {
+    "1": {
+      "text": "Zahlen, die etwas anderes repräsentieren.",
+      "details": "Zum Beispiel: Die Zahlen auf einer Uhr repräsentieren Zeiten (Minuten, Stunden).",
+      "image": "clock.jpg"
+    },
+    "2": {
+      "text": "Die größte Zahl, die Du finden kannst.",
+      "image": "license_plate.jpg"
+    },
+    "3": {
+      "text": "Etwas aus der Natur mit einer sehr geometrischen Form.",
+      "details": "Eine Blume, Pflanze, Obst, Gemüse, Stein, etc.",
+      "image": "star_flower.jpg"
+    },
+    "4": {
+      "text": "Eine sehr geometrische Konstruktion.",
+      "details": "Ein Gebäude, Skulptur, Brücke, Torbogen, Tür, Fenster oder andere Dinge, die von Menschen gebaut wurden.",
+      "image": "bridge.jpg"
+    },
+    "5": {
+      "text": "Ein Kunstwerk, das interessante, geometrische Formen verwendet.",
+      "image": "vase.jpg"
+    },
+    "6": {
+      "text": "Eine Menge von Dingen, zu viel um sie zu zählen.",
+      "image": "pebbles.jpg"
+    },
+    "7": {
+      "text": "Ein Gegenstand, dessen Form aus ebenen Flächenstücken mit geraden Kanten zusammengesetzt ist, ohne Kurven.",
+      "image": "chair.jpg"
+    },
+    "8": {
+      "text": "Ein Gegenstand, dessen Form nur aus gekrümmten Flächenstücken zusammengesetzt ist.",
+      "image": "mask.jpg"
+    },
+    "9": {
+      "text": "Etwas, wofür genaue Messungen oder komplexe Berechnungen nötig waren, um es zu bauen.",
+      "image": "glasses.jpg"
+    },
+    "11": {
+      "text": "Kreise in anderen Kreisen.",
+      "image": "manhole.jpg"
+    },
+    "12": {
+      "text": "So viele Quadrate oder Rechtecke wie möglich in einem Bild.",
+      "image": "building.jpg"
+    },
+    "13": {
+      "text": "Das Polygon mit den meisten Kanten, das Du finden kannst.",
+      "details": "Ein Polygon is eine ebene, geschlossene Form, deren Kanten nur aus geraden Linien bestehen.",
+      "image": "window.jpg"
+    },
+    "14": {
+      "text": "Ein nicht-perfekter Kreis.",
+      "details": "Erwas, das fast genau kreisförmig ist, aber nicht ganz.",
+      "image": "apple.jpg"
+    },
+    "15": {
+      "text": "Ein verstecktes Dreieck.",
+      "details": "Ein Dreieck, das durch die Ränder anderer Dinge oder zwischen anderen Gegenständen entsteht, und nur aus einer bestimmten Richtung sichtbar ist.",
+      "image": "triangle.jpg"
+    },
+    "16": {
+      "text": "Ein Design, das dadurch entsteht, dass geometrische Formen nahtlos aneinandergelegt werden.",
+      "details": "Zum Beispiel geometrische Boden- oder Wandfliesen.",
+      "image": "tesselation.jpg"
+    },
+    "17": {
+      "text": "Ein buntes, symmetrisches Design.",
+      "details": "Ähnlich wie in einem Kaleidoskop, einer geometrischen Blume oder bei Schmetterlingsflügeln.",
+      "image": "stitching.jpg"
+    },
+    "19": {
+      "text": "Eine Menge von Gegenständen, deren Farbe, Größe oder Form einem wiederholenden Muster folgen.",
+      "image": "keyboard.jpg"
+    },
+    "20": {
+      "text": "Eine Menge von ähnlichen Dingen, die offenbar zufällig zusammengewürfelt sind, ohne erkennbares Muster.",
+      "image": "candy.jpg"
+    },
+    "21": {
+      "text": "Eine Menge von ähnlichen, nach Größe geordneten Dingen.",
+      "image": "bottles.jpg"
+    },
+    "23": {
+      "text": "Ein Gegenstand, auf dem man super schnell und cool rutschen könnte, wenn man sich verkleinern könnte.",
+      "image": "banana.jpg"
+    }
+  }
+}

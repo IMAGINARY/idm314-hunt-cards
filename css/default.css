@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+@page {
+    /* full a4      : width: 29.7cm   height: 21cm */
+    /* with margins : width: 26.6cm   height: 18cm */
+    size: a4 landscape;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    margin-left: 1.505cm;
+    margin-right: 1.505cm;
+}
+
+.card {
+    position: relative;
+    float: left;
+    width: 6.55cm;
+    height: 9cm;
+    border: 0.025cm solid black;
+    padding: 0.2cm;
+    margin-left: -0.025cm;
+    margin-top: -0.025cm;
+    box-sizing: border-box;
+
+    font-family: 'Fira Sans Condensed';
+}
+
+.card-text {
+    font-weight: 500;
+    font-size: 12pt;
+    line-height: 1.1;
+}
+
+.card-details {
+    font-size: 10pt;
+    line-height: 1.1;
+    margin-top: 0.2em;
+}
+
+.card-image {
+    width: 6.5cm; /* 6.55 - (0.3 * 2 + 0.05 * 2) */
+    height: 6.5cm;
+    position: absolute;
+    bottom: 0cm;
+    left: 0cm;
+}
+
+.card-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0.20cm solid #f58220;
+    box-sizing: border-box;
+}
+
+.card-image-empty:after {
+    display: block;
+    content: " ";
+    width: 100%;
+    height: 100%;
+    border: 0.20cm solid #f58220;
+    box-sizing: border-box;
+}
+
+
+.card:nth-child(9n+1) .card-image-empty:after,
+.card:nth-child(9n+1) .card-image img {
+    border-color: #0066b3;
+}
+
+.card:nth-child(9n+2) .card-image-empty:after,
+.card:nth-child(9n+2) .card-image img {
+    border-color: #00a651;
+}
+
+.card:nth-child(9n+3) .card-image-empty:after,
+.card:nth-child(9n+3) .card-image img {
+    border-color: #ffcb05;
+}
+
+.card:nth-child(9n+4) .card-image-empty:after,
+.card:nth-child(9n+4) .card-image img {
+    border-color: #ed1c24;
+}
+
+.card:nth-child(9n+5) .card-image-empty:after,
+.card:nth-child(9n+5) .card-image img {
+    border-color: #00aeef;
+}
+
+.card:nth-child(9n+6) .card-image-empty:after,
+.card:nth-child(9n+6) .card-image img {
+    border-color: #7670b3;
+}
+
+.card:nth-child(9n+7) .card-image-empty:after,
+.card:nth-child(9n+7) .card-image img {
+    border-color: #a6ce39;
+}
+
+.card:nth-child(9n+8) .card-image-empty:after,
+.card:nth-child(9n+8) .card-image img {
+    border-color: #c657a0;
+}
+
+.card:nth-child(9n+0) .card-image-empty:after,
+.card:nth-child(9n+0) .card-image img {
+    border-color: #f58220;
+}
+

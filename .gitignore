@@ -1,0 +1,6 @@
+__pycache__
+env
+!.gitkeep
+client_secret.json
+node_modules
+yarn-error.log

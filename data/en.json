@@ -1,0 +1,92 @@
+{
+  "cards": {
+    "1": {
+      "text": "Numbers that represent something else.",
+      "details": "For example: the numbers in a clock represent amounts of time (minutes, hours).",
+      "image": "clock.jpg"
+    },
+    "2": {
+      "text": "The largest number you can find.",
+      "image": "license_plate.jpg"
+    },
+    "3": {
+      "text": "Something from nature with a very geometrical shape.",
+      "details": "A flower, plant, fruit, vegetable, rock, etc.",
+      "image": "star_flower.jpg"
+    },
+    "4": {
+      "text": "A very geometrical construction.",
+      "details": "A building, sculpture, bridge, arch, doorway, window or other things built by humans.",
+      "image": "bridge.jpg"
+    },
+    "5": {
+      "text": "A piece of art that uses interesting geometric shapes.",
+      "image": "vase.jpg"
+    },
+    "6": {
+      "text": "A group of things too large to be counted.",
+      "image": "pebbles.jpg"
+    },
+    "7": {
+      "text": "A thing whose shape is made of flat surfaces and hard edges, with no curves.",
+      "image": "chair.jpg"
+    },
+    "8": {
+      "text": "A thing whose shape is made only of curved surfaces",
+      "image": "mask.jpg"
+    },
+    "9": {
+      "text": "Something you imagine required very precise measurements or complex calculations to build.",
+      "image": "glasses.jpg"
+    },
+    "11": {
+      "text": "Circles inside other circles.",
+      "image": "manhole.jpg"
+    },
+    "12": {
+      "text": "As many squares or rectangles as you can fit in the same picture.",
+      "image": "building.jpg"
+    },
+    "13": {
+      "text": "The polygon with the largest amount of sides you can find.",
+      "details": "A polygon is a flat closed shape whose sides are all straight lines.",
+      "image": "window.jpg"
+    },
+    "14": {
+      "text": "An imperfect circle.",
+      "details": "Something that is almost perfectly circular, but not quite.",
+      "image": "apple.jpg"
+    },
+    "15": {
+      "text": "A hidden triangle.",
+      "details": "A triangle formed by edges of things or in the space between things and that is only visible from a particular position and direction.",
+      "image": "triangle.jpg"
+    },
+    "16": {
+      "text": "A design made by placing geometric shapes one next to the other, with no gaps.",
+      "details": "For example geometric floor or wall tiles.",
+      "image": "tesselation.jpg"
+    },
+    "17": {
+      "text": "Things or shapes arranged in a colorful and symmetrical design.",
+      "details": "Similar to a kaleidoscope, a geometrical flower or the wings of a butterfly.",
+      "image": "stitching.jpg"
+    },
+    "19": {
+      "text": "A group of things whose color, size or shape follows a repeating pattern.",
+      "image": "keyboard.jpg"
+    },
+    "20": {
+      "text": "A group of similar things that apparently are randomly distributed, following no pattern.",
+      "image": "candy.jpg"
+    },
+    "21": {
+      "text": "A group of similar things, ordered by size.",
+      "image": "bottles.jpg"
+    },
+    "23": {
+      "text": "An object that would be a very fast and exciting slide if you could shrink your body.",
+      "image": "banana.jpg"
+    }
+  }
+}

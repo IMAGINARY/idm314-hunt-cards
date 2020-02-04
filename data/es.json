@@ -1,0 +1,92 @@
+{
+  "cards": {
+    "1": {
+      "text": "Números que representen algo.",
+      "details": "Por ejemplo: Los números del reloj representan tiempo (horas, minutos).",
+      "image": "clock.jpg"
+    },
+    "2": {
+      "text": "El número más grande que encuentren.",
+      "image": "license_plate.jpg"
+    },
+    "3": {
+      "text": "Algo de la naturaleza con un forma muy geométrica.",
+      "details": "Una flor, planta, fruta, vegetal, piedra, etc.",
+      "image": "star_flower.jpg"
+    },
+    "4": {
+      "text": "Una construcción muy geométrica.",
+      "details": "Un edificio, escultura, puente, arco, portal, ventana u otra construcción humana.",
+      "image": "bridge.jpg"
+    },
+    "5": {
+      "text": "Una obra de arte que use formas geométricas interesantes.",
+      "image": "vase.jpg"
+    },
+    "6": {
+      "text": "Un grupo con tantas cosas que no es posible contarlas.",
+      "image": "pebbles.jpg"
+    },
+    "7": {
+      "text": "Algo cuya forma no tenga curvas, solo superficies planas y bordes rectos.",
+      "image": "chair.jpg"
+    },
+    "8": {
+      "text": "Algo cuya forma solo tenga superficies curvadas.",
+      "image": "mask.jpg"
+    },
+    "9": {
+      "text": "Algo que imaginen que fue construído usando medidas muy precisas o cálculos muy complejos.",
+      "image": "glasses.jpg"
+    },
+    "11": {
+      "text": "Círculos dentro de otros círculos.",
+      "image": "manhole.jpg"
+    },
+    "12": {
+      "text": "Tantos cuadrados o rectángulos como quepan en la foto.",
+      "image": "building.jpg"
+    },
+    "13": {
+      "text": "El polígono con la mayor cantidad de lados que puedan encontrar.",
+      "details": "Un polígono es una figura plana y cerrada cuyos lados son todas líneas rectas.",
+      "image": "window.jpg"
+    },
+    "14": {
+      "text": "Un círculo imperfecto.",
+      "details": "Algo que sea casi perfectamente circular, pero no.",
+      "image": "apple.jpg"
+    },
+    "15": {
+      "text": "Un triángulo oculto.",
+      "details": "Un triángulo formado por los bordes de cosas o en el espacio entre cosas que sea visible solo mirando desde una posición particular.",
+      "image": "triangle.jpg"
+    },
+    "16": {
+      "text": "Un diseño hecho de figuras geométricas colocadas una junto a la otra, sin dejar espacios.",
+      "details": "Por ejemplo mosaicos en el piso o pared.",
+      "image": "tesselation.jpg"
+    },
+    "17": {
+      "text": "Cosas o formas dispuestas en un diseño simétrico y colorido.",
+      "details": "Como en un kaleidoscopio, una flor geométrica o las alas de una mariposa.",
+      "image": "stitching.jpg"
+    },
+    "19": {
+      "text": "Un grupo de cosas cuyo color, tamaño o forma siga un patrón que se repite.",
+      "image": "keyboard.jpg"
+    },
+    "20": {
+      "text": "Un grupo de cosas similares que aparentemente estén desordenadas y no sigan ningún patrón.",
+      "image": "candy.jpg"
+    },
+    "21": {
+      "text": "Un grupo de cosas similares, ordenadas por tamaño.",
+      "image": "bottles.jpg"
+    },
+    "23": {
+      "text": "Un objeto que sería un tobogán muy rápido y emocionante si pudieras reducir el tamaño de tu cuerpo.",
+      "image": "banana.jpg"
+    }
+  }
+}

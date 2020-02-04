@@ -1,0 +1,18 @@
+{
+  "name": "idm314-hunt-cards-fetch-data",
+  "version": "0.1.0",
+  "description": "Data file generation from a Google Sheet for the IDM 314 Scavenger Hunt Cards",
+  "repository": "github:IMAGINARY/idm314-hunt-cards",
+  "author": "Eric Londaits <eric.londaits@imaginary.org>",
+  "private": true,
+  "engines": {
+    "node": "^10.14.0"
+  },
+  "dependencies": {
+    "@imaginary-maths/gsheeter": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
