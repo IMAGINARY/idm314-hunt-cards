@@ -1,0 +1,92 @@
+{
+  "cards": {
+    "1": {
+      "text": "Başka bir şeyi temsil eden sayılar",
+      "details": "Örnek: bir saatin üzerindeki sayılar zaman birimlerini (dakika, saat) temsil ederler.",
+      "image": "clock.jpg"
+    },
+    "2": {
+      "text": "Bulduğunuz en büyük sayı",
+      "image": "license_plate.jpg"
+    },
+    "3": {
+      "text": "Doğadan bir şey ama çok geometrik",
+      "details": "Bir çiçek, bitki, meyve, sebze, kaya vs.",
+      "image": "star_flower.jpg"
+    },
+    "4": {
+      "text": "Çok geometrik bir yapı",
+      "details": "İnsanlar tarafından inşa edilmiş bina, heykel, kemer, kapı girişi, pencere gibi yapılar",
+      "image": "bridge.jpg"
+    },
+    "5": {
+      "text": "İlginç geometrik şekiller kullanan bir sanat eseri",
+      "image": "vase.jpg"
+    },
+    "6": {
+      "text": "Sayılamayacak kadar çok olan bir nesne",
+      "image": "pebbles.jpg"
+    },
+    "7": {
+      "text": "Sadece düz yüzeyleri ve sert köşeleri olan bir nesne",
+      "image": "chair.jpg"
+    },
+    "8": {
+      "text": "Sadece eğrilerden oluşan bir nesne",
+      "image": "mask.jpg"
+    },
+    "9": {
+      "text": "Oluşturmak için çok özenli ölçüm ve zor hesaplar gerektiren bir nesne",
+      "image": "glasses.jpg"
+    },
+    "11": {
+      "text": "Daireler içinde daireler",
+      "image": "manhole.jpg"
+    },
+    "12": {
+      "text": "Bir resme sığdırabileceğiniz kadar kareler, dörtgenler",
+      "image": "building.jpg"
+    },
+    "13": {
+      "text": "Bulabileceğiniz en fazla kenara sahip çokgen",
+      "details": "A polygon is a flat closed shape whose sides are all straight lines.",
+      "image": "window.jpg"
+    },
+    "14": {
+      "text": "Kusurlu bir daire",
+      "details": "Neredeyse tamamiyle dairesel bir nesne",
+      "image": "apple.jpg"
+    },
+    "15": {
+      "text": "A hidden triangle.",
+      "details": "Ancak belli bir bakış açısıyla bakınca nesneler arasında görülen bir üçgen",
+      "image": "triangle.jpg"
+    },
+    "16": {
+      "text": "Geometrik şekilleri birleştirerek yapılmış bir tasarım",
+      "details": "Örnek: geometrik yer veya duvar döşemeleri",
+      "image": "tesselation.jpg"
+    },
+    "17": {
+      "text": "Renkli ve simetrik tasarlanmış nesneler veya şekiller",
+      "details": "Kaleydoskop gibi, geometrik bir çiçek veya bir kelebeğin kanatları",
+      "image": "stitching.jpg"
+    },
+    "19": {
+      "text": "Renk, boy veya şeklinde aynı desenin tekrar edildiği şeyler",
+      "image": "keyboard.jpg"
+    },
+    "20": {
+      "text": "Rastgele dağıtılmış gibi duran benzer şeyler",
+      "image": "candy.jpg"
+    },
+    "21": {
+      "text": "Boy sırasına dizilmiş benzer şeyler",
+      "image": "bottles.jpg"
+    },
+    "23": {
+      "text": "Boyumuzu ufaltabilseydik, hızlı kaykayımız olabilecek bir nesne",
+      "image": "banana.jpg"
+    }
+  }
+}
