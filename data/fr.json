@@ -1,0 +1,92 @@
+{
+  "cards": {
+    "1": {
+      "text": "Des chiffres qui représentent autre chose.",
+      "details": "Par exemple: les nombres dans une horloge représentent des quantités de temps (minutes, heures).",
+      "image": "clock.jpg"
+    },
+    "2": {
+      "text": "Le plus grand nombre que vous pouvez trouver.",
+      "image": "license_plate.jpg"
+    },
+    "3": {
+      "text": "Quelque chose de la nature avec une forme très géométrique.",
+      "details": "Une fleur, une plante, un fruit, un légume, une pierre, etc.",
+      "image": "star_flower.jpg"
+    },
+    "4": {
+      "text": "Une construction très géométrique.",
+      "details": "Un bâtiment, une sculpture, un pont, une arche, une porte, une fenêtre ou d'autres choses construites par des humains.",
+      "image": "bridge.jpg"
+    },
+    "5": {
+      "text": "Une œuvre d'art qui utilise des formes géométriques intéressantes.",
+      "image": "vase.jpg"
+    },
+    "6": {
+      "text": "Un groupe de choses trop grand pour être compté.",
+      "image": "pebbles.jpg"
+    },
+    "7": {
+      "text": "Une chose dont la forme est faite de surfaces planes et de bords droits, sans courbes.",
+      "image": "chair.jpg"
+    },
+    "8": {
+      "text": "Une chose dont la forme n'est faite que de surfaces courbes",
+      "image": "mask.jpg"
+    },
+    "9": {
+      "text": "Quelque chose que vous imaginez nécessitant des mesures très précises ou des calculs complexes à construire.",
+      "image": "glasses.jpg"
+    },
+    "11": {
+      "text": "Cercles à l'intérieur d'autres cercles.",
+      "image": "manhole.jpg"
+    },
+    "12": {
+      "text": "Autant de carrés ou de rectangles que vous pouvez faire tenir dans la même image.",
+      "image": "building.jpg"
+    },
+    "13": {
+      "text": "Le polygone avec le plus grand nombre de côtés que vous pouvez trouver.",
+      "details": "Un polygone est une forme plane fermée dont tous les côtés sont des segments.",
+      "image": "window.jpg"
+    },
+    "14": {
+      "text": "Un cercle imparfait.",
+      "details": "Quelque chose qui est presque parfaitement circulaire, mais pas tout à fait.",
+      "image": "apple.jpg"
+    },
+    "15": {
+      "text": "Un triangle caché.",
+      "details": "Un triangle formé par les bords d'objets ou encore dans l'espace entre des objets et qui n'est visible que d'une position et d'une direction particulières.",
+      "image": "triangle.jpg"
+    },
+    "16": {
+      "text": "Un patron réalisé en plaçant des formes géométriques les unes à côté des autres, sans espace.",
+      "details": "Par exemple, des carreaux géométriques au sol ou sur le mur.",
+      "image": "tesselation.jpg"
+    },
+    "17": {
+      "text": "Objets ou formes disposés dans un patron coloré et symétrique.",
+      "details": "Semblable à un kaléidoscope, une fleur géométrique ou les ailes d'un papillon.",
+      "image": "stitching.jpg"
+    },
+    "19": {
+      "text": "Un groupe de choses dont la couleur, la taille ou la forme suit un motif répétitif.",
+      "image": "keyboard.jpg"
+    },
+    "20": {
+      "text": "Un groupe de choses similaires qui sont apparemment distribuées au hasard, sans aucune règle.",
+      "image": "candy.jpg"
+    },
+    "21": {
+      "text": "Un groupe de choses similaires, classées par taille.",
+      "image": "bottles.jpg"
+    },
+    "23": {
+      "text": "Un objet qui serait un toboggan très rapide et excitant si vous pouviez rapetisser votre corps.",
+      "image": "banana.jpg"
+    }
+  }
+}
